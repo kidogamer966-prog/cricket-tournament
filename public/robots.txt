@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cricket-tournament-cyan.vercel.app
+
+# Sitemaps
+Sitemap: https://cricket-tournament-cyan.vercel.app/sitemap.xml
